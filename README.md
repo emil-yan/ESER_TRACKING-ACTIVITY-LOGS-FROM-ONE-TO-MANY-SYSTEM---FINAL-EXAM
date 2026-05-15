@@ -43,4 +43,6 @@ pet-clinic/
 ├── edit_pet.php             # Child Entity: Update logic
 ├── delete_pet.php           # Child Entity: Delete logic
 ├── logs.php                 # Read-only activity tracking dashboard
+├── sql_code.md              # Read-only SQL code of the database used
+├── pet_clinic_db.sql        # Direct export of the database used
 └── README.md                # Project documentation
